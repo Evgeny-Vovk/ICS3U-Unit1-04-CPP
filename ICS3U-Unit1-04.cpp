@@ -2,7 +2,7 @@
 //
 // Created by : Evgeny Vovk
 // Created on : September 2022
-// ICS3U-Unit1-03.cpp File, learning how style properly in C++
+// ICS3U-Unit1-04.cpp File, learning how style properly in C++
 
 #include <iostream>
 
